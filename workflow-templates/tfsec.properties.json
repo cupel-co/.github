@@ -1,0 +1,12 @@
+{
+  "name": "TF Sec",
+  "description": "Analyse TF files",
+  "iconName": "shield-lock",
+  "categories": [
+    "code-quality",
+    "HCL"
+  ],
+  "filePatterns": [
+    "^/infrastructure/*.tf"
+  ]
+}

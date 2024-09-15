@@ -1,0 +1,12 @@
+{
+  "name": "TF Lint",
+  "description": "Lint TF files",
+  "iconName": "code",
+  "categories": [
+    "code-quality",
+    "HCL"
+  ],
+  "filePatterns": [
+    "^/infrastructure/*.tf"
+  ]
+}

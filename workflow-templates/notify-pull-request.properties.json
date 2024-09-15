@@ -1,0 +1,8 @@
+{
+  "name": "Notify Pull Request Opened",
+  "description": "Notify when a PR has been opened or reopened",
+  "iconName": "bell",
+  "categories": [
+    "code-review"
+  ]
+}
